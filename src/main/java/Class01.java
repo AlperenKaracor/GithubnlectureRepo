@@ -18,6 +18,9 @@ public class Class01 {
         //Versiyon 6
         System.out.println("Versiyon 6");
 
+        //Versiyon 7
+        System.out.println("Versiyon7");
+
         //1) git add .
         //2) git commit -m"v6"
         //3)
