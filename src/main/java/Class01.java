@@ -15,6 +15,13 @@ public class Class01 {
         //Versiyon 2 Kodlari
         System.out.println("versiyon2");
 
+        //Versiyon 6
+        System.out.println("Versiyon 6");
+
+        //1) git add .
+        //2) git commit -m"v6"
+        //3)
+
 
     }
 }
