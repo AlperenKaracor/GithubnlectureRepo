@@ -6,6 +6,9 @@ public class Class01 {
 
         //Versiyon yuklemek icin icin git commit -m""
         //WS git add . yazarak SA ya gonderiyor git commit yazarak repositorye gonderilir
+        //git log versiyon goruntuleme
+
+
          //Versiyon 1 kodlari
         System.out.println("Versiyon1");
 
